@@ -1,0 +1,757 @@
+﻿Toss Decision,Match ID,Toss Winner,Team1,Team2,Winner,DL Method,Total Balls
+bat,1,Pune Warriors,Pune Warriors,Delhi Daredevils,Pune Warriors,0.0,250.0
+,2,Kings XI Punjab,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,0.0,253.0
+,7,Kings XI Punjab,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,0.0,222.0
+,8,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,0.0,246.0
+,9,Kings XI Punjab,Pune Warriors,Kings XI Punjab,Pune Warriors,0.0,207.0
+,11,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,0.0,219.0
+,12,Mumbai Indians,Rajasthan Royals,Mumbai Indians,Mumbai Indians,0.0,250.0
+,13,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,0.0,248.0
+,15,Delhi Daredevils,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,0.0,248.0
+,16,Mumbai Indians,Mumbai Indians,Chennai Super Kings,Mumbai Indians,0.0,247.0
+,18,Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,0.0,239.0
+,20,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,0.0,236.0
+,21,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,0.0,242.0
+,22,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,0.0,249.0
+,24,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,0.0,215.0
+,32,Delhi Daredevils,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,0.0,247.0
+,33,Deccan Chargers,Deccan Chargers,Rajasthan Royals,Deccan Chargers,0.0,241.0
+,34,Sunrisers Hyderabad,Rising Pune Supergiants,Sunrisers Hyderabad,Sunrisers Hyderabad,0.0,244.0
+,35,Kings XI Punjab,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,0.0,247.0
+,37,Kolkata Knight Riders,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,0.0,255.0
+,38,Royal Challengers Bangalore,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,0.0,247.0
+,44,Mumbai Indians,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,0.0,235.0
+,45,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,Deccan Chargers,0.0,243.0
+,48,Deccan Chargers,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,0.0,205.0
+,49,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,0.0,245.0
+,51,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,0.0,241.0
+,52,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,0.0,246.0
+,53,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,0.0,244.0
+,54,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Mumbai Indians,0.0,237.0
+,55,Royal Challengers Bangalore,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,0.0,242.0
+,57,Pune Warriors,Mumbai Indians,Pune Warriors,Mumbai Indians,0.0,230.0
+,59,Kings XI Punjab,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,0.0,254.0
+,60,Rajasthan Royals,Rajasthan Royals,Pune Warriors,Rajasthan Royals,0.0,244.0
+,61,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,0.0,248.0
+,62,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,0.0,243.0
+,63,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,0.0,244.0
+,66,Chennai Super Kings,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,0.0,206.0
+,67,Kings XI Punjab,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,0.0,242.0
+,68,Mumbai Indians,Mumbai Indians,Delhi Daredevils,Mumbai Indians,0.0,248.0
+,71,Rajasthan Royals,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,0.0,241.0
+,72,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,0.0,233.0
+,75,Mumbai Indians,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,0.0,203.0
+,77,Rajasthan Royals,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,0.0,216.0
+,83,Pune Warriors,Rajasthan Royals,Pune Warriors,Rajasthan Royals,0.0,249.0
+,87,Deccan Chargers,Deccan Chargers,Delhi Daredevils,Deccan Chargers,0.0,242.0
+,93,Delhi Daredevils,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,0.0,243.0
+,97,Chennai Super Kings,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,0.0,248.0
+,102,Mumbai Indians,Mumbai Indians,Pune Warriors,Mumbai Indians,0.0,247.0
+,103,Sunrisers Hyderabad,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,0.0,240.0
+,107,Mumbai Indians,Mumbai Indians,Chennai Super Kings,Mumbai Indians,0.0,220.0
+,110,Deccan Chargers,Delhi Daredevils,Deccan Chargers,Deccan Chargers,0.0,244.0
+,114,Deccan Chargers,Deccan Chargers,Pune Warriors,Deccan Chargers,0.0,246.0
+,115,Mumbai Indians,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,0.0,236.0
+,118,Chennai Super Kings,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,0.0,247.0
+,129,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,0.0,220.0
+,138,Rising Pune Supergiants,Kings XI Punjab,Rising Pune Supergiants,Kings XI Punjab,0.0,237.0
+,143,Delhi Daredevils,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,1.0,123.0
+,145,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Mumbai Indians,0.0,248.0
+,146,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,0.0,238.0
+,148,Kings XI Punjab,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,0.0,253.0
+,149,Delhi Daredevils,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,0.0,233.0
+,156,Deccan Chargers,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,0.0,240.0
+,157,Chennai Super Kings,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,0.0,245.0
+,161,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,0.0,252.0
+,162,Kolkata Knight Riders,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,0.0,247.0
+,168,Pune Warriors,Pune Warriors,Kings XI Punjab,Pune Warriors,0.0,248.0
+,170,Chennai Super Kings,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,0.0,234.0
+,171,Delhi Daredevils,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,0.0,244.0
+,176,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,0.0,233.0
+,182,Mumbai Indians,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,0.0,246.0
+,183,Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,0.0,240.0
+,185,Deccan Chargers,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,0.0,225.0
+,186,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,0.0,233.0
+,187,Kolkata Knight Riders,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,0.0,247.0
+,196,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,0.0,246.0
+,197,Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,1.0,175.0
+,198,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,Delhi Capitals,0.0,224.0
+,199,Chennai Super Kings,Pune Warriors,Chennai Super Kings,Pune Warriors,0.0,243.0
+,202,Chennai Super Kings,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,0.0,247.0
+,204,Mumbai Indians,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,0.0,246.0
+,206,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,0.0,219.0
+,209,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,0.0,245.0
+,210,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,0.0,248.0
+,218,Mumbai Indians,Mumbai Indians,Rising Pune Supergiant,Mumbai Indians,0.0,248.0
+,221,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,0.0,254.0
+,223,Delhi Daredevils,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,0.0,247.0
+,225,Delhi Daredevils,Delhi Daredevils,Pune Warriors,,0.0,63.0
+,230,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,0.0,252.0
+,232,Sunrisers Hyderabad,Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,0.0,245.0
+,234,Chennai Super Kings,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,0.0,242.0
+,238,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,0.0,249.0
+,239,Deccan Chargers,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,0.0,224.0
+,246,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,0.0,247.0
+,248,Chennai Super Kings,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,0.0,246.0
+,251,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,0.0,238.0
+,256,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,0.0,234.0
+,257,Deccan Chargers,Chennai Super Kings,Deccan Chargers,Deccan Chargers,0.0,254.0
+,261,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,0.0,234.0
+,262,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,1.0,186.0
+,264,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,Deccan Chargers,0.0,244.0
+,268,Deccan Chargers,Deccan Chargers,Mumbai Indians,Mumbai Indians,0.0,243.0
+,269,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,0.0,240.0
+,274,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,0.0,248.0
+,277,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,0.0,209.0
+,279,Delhi Daredevils,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,0.0,251.0
+,281,Pune Warriors,Pune Warriors,Chennai Super Kings,Chennai Super Kings,0.0,247.0
+,283,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,0.0,227.0
+,284,Mumbai Indians,Delhi Capitals,Mumbai Indians,Mumbai Indians,0.0,247.0
+,290,Chennai Super Kings,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,0.0,250.0
+,293,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,0.0,251.0
+,294,Kings XI Punjab,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,0.0,243.0
+,295,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,0.0,242.0
+,309,Mumbai Indians,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,0.0,240.0
+,310,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,0.0,248.0
+,312,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,0.0,248.0
+,314,Kings XI Punjab,Kings XI Punjab,Mumbai Indians,Mumbai Indians,0.0,249.0
+,315,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,0.0,236.0
+,318,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,0.0,248.0
+,321,Mumbai Indians,Mumbai Indians,Kings XI Punjab,Mumbai Indians,0.0,251.0
+,322,Mumbai Indians,Kings XI Punjab,Mumbai Indians,Mumbai Indians,0.0,245.0
+,324,Mumbai Indians,Mumbai Indians,Rajasthan Royals,Mumbai Indians,0.0,254.0
+,326,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,0.0,246.0
+,327,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,0.0,248.0
+,334,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,0.0,255.0
+,335,Chennai Super Kings,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,0.0,249.0
+,344,Pune Warriors,Pune Warriors,Rajasthan Royals,Rajasthan Royals,0.0,221.0
+,345,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,0.0,233.0
+,346,Delhi Daredevils,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,0.0,235.0
+,350,Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,0.0,249.0
+,351,Delhi Daredevils,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,0.0,250.0
+,352,Delhi Daredevils,Kochi Tuskers Kerala,Delhi Daredevils,Delhi Daredevils,0.0,239.0
+,356,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,0.0,248.0
+,357,Royal Challengers Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,0.0,243.0
+,361,Sunrisers Hyderabad,Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,0.0,245.0
+,365,Kings XI Punjab,Kings XI Punjab,Pune Warriors,Pune Warriors,0.0,229.0
+,366,Sunrisers Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,1.0,106.0
+,367,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,0.0,249.0
+,373,Chennai Super Kings,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,0.0,244.0
+,380,Rajasthan Royals,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,0.0,259.0
+,381,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,0.0,240.0
+,382,Chennai Super Kings,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,0.0,244.0
+,391,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,0.0,234.0
+,393,Chennai Super Kings,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,0.0,244.0
+,397,Pune Warriors,Pune Warriors,Mumbai Indians,Mumbai Indians,0.0,237.0
+,398,Chennai Super Kings,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,0.0,249.0
+,400,Delhi Daredevils,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,0.0,248.0
+,404,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Mumbai Indians,0.0,252.0
+,416,Delhi Daredevils,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,0.0,239.0
+,418,Royal Challengers Bangalore,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,0.0,247.0
+,419,Kings XI Punjab,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,0.0,253.0
+,420,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,Mumbai Indians,0.0,244.0
+,423,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,0.0,248.0
+,426,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,0.0,246.0
+,427,Chennai Super Kings,Pune Warriors,Chennai Super Kings,Chennai Super Kings,0.0,245.0
+,429,Rajasthan Royals,Rajasthan Royals,Mumbai Indians,Mumbai Indians,0.0,250.0
+,430,Deccan Chargers,Deccan Chargers,Mumbai Indians,Deccan Chargers,0.0,245.0
+,435,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,0.0,239.0
+,436,Delhi Daredevils,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,0.0,242.0
+,438,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,0.0,240.0
+,439,Deccan Chargers,Pune Warriors,Deccan Chargers,Deccan Chargers,0.0,248.0
+,444,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,0.0,212.0
+,448,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,0.0,238.0
+,451,Kochi Tuskers Kerala,Royal Challengers Bangalore,Kochi Tuskers Kerala,Royal Challengers Bangalore,0.0,211.0
+,452,Gujarat Lions,Gujarat Lions,Mumbai Indians,,0.0,263.0
+,455,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,0.0,247.0
+,458,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,0.0,248.0
+,459,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,0.0,248.0
+,460,Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,0.0,237.0
+,461,Chennai Super Kings,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,0.0,245.0
+,462,Mumbai Indians,Mumbai Indians,Sunrisers Hyderabad,,0.0,251.0
+,463,Sunrisers Hyderabad,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,0.0,248.0
+,469,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,0.0,212.0
+,471,Mumbai Indians,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,0.0,240.0
+,473,Deccan Chargers,Deccan Chargers,Pune Warriors,Pune Warriors,0.0,234.0
+,474,Mumbai Indians,Mumbai Indians,Delhi Daredevils,Mumbai Indians,0.0,247.0
+,475,Chennai Super Kings,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,0.0,248.0
+,478,Kochi Tuskers Kerala,Pune Warriors,Kochi Tuskers Kerala,Pune Warriors,0.0,246.0
+,482,Rising Pune Supergiants,Gujarat Lions,Rising Pune Supergiants,Gujarat Lions,0.0,233.0
+,483,Chennai Super Kings,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,0.0,246.0
+,484,Delhi Daredevils,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,0.0,240.0
+,485,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,0.0,240.0
+,487,Kolkata Knight Riders,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,0.0,250.0
+,489,Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,0.0,243.0
+,491,Kolkata Knight Riders,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,0.0,249.0
+,492,Kolkata Knight Riders,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,0.0,250.0
+,495,Chennai Super Kings,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,0.0,215.0
+,496,Kings XI Punjab,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,0.0,229.0
+,497,Kings XI Punjab,Rising Pune Supergiants,Kings XI Punjab,Rising Pune Supergiants,0.0,250.0
+,503,Kolkata Knight Riders,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,0.0,197.0
+,504,Delhi Daredevils,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,0.0,245.0
+,505,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,0.0,251.0
+,509,Mumbai Indians,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,0.0,228.0
+,511,Rajasthan Royals,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,0.0,241.0
+,516,Rajasthan Royals,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,0.0,245.0
+,522,Chennai Super Kings,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,0.0,219.0
+,523,Royal Challengers Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,0.0,221.0
+,525,Deccan Chargers,Delhi Daredevils,Deccan Chargers,Delhi Daredevils,0.0,245.0
+,526,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,0.0,236.0
+,528,Royal Challengers Bangalore,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,0.0,246.0
+,529,Pune Warriors,Pune Warriors,Delhi Daredevils,Delhi Daredevils,0.0,218.0
+,530,Deccan Chargers,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,0.0,246.0
+,532,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,0.0,245.0
+,536,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,0.0,237.0
+,539,Royal Challengers Bangalore,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,0.0,248.0
+,540,Pune Warriors,Pune Warriors,Kings XI Punjab,Kings XI Punjab,0.0,198.0
+,546,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,0.0,241.0
+,550,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,0.0,198.0
+,553,Rajasthan Royals,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,0.0,244.0
+,554,Rising Pune Supergiants,Kolkata Knight Riders,Rising Pune Supergiants,Kolkata Knight Riders,1.0,142.0
+,555,Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,Royal Challengers Bangalore,0.0,247.0
+,559,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,,0.0,262.0
+,564,Pune Warriors,Chennai Super Kings,Pune Warriors,Pune Warriors,0.0,244.0
+,571,Chennai Super Kings,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,0.0,245.0
+,572,Mumbai Indians,Pune Warriors,Mumbai Indians,Mumbai Indians,0.0,249.0
+,573,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,0.0,237.0
+,574,Chennai Super Kings,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,0.0,244.0
+,575,Kings XI Punjab,Kings XI Punjab,Mumbai Indians,Mumbai Indians,0.0,234.0
+,576,Chennai Super Kings,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,0.0,250.0
+,577,Kolkata Knight Riders,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,0.0,238.0
+,582,Mumbai Indians,Mumbai Indians,Deccan Chargers,Mumbai Indians,0.0,238.0
+,586,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,0.0,223.0
+,587,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Mumbai Indians,0.0,250.0
+,588,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,0.0,247.0
+,589,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,0.0,246.0
+,592,Deccan Chargers,Delhi Daredevils,Deccan Chargers,Deccan Chargers,0.0,244.0
+,593,Chennai Super Kings,Chennai Super Kings,Mumbai Indians,Mumbai Indians,0.0,239.0
+,594,Mumbai Indians,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,0.0,228.0
+,596,Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,0.0,244.0
+,597,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,0.0,240.0
+,599,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Royal Challengers Bangalore,Royal Challengers Bangalore,0.0,245.0
+,600,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,0.0,246.0
+,601,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,0.0,237.0
+,602,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,0.0,255.0
+,604,Chennai Super Kings,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,0.0,242.0
+,608,Sunrisers Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,0.0,245.0
+,611,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,0.0,246.0
+,613,Delhi Daredevils,Delhi Daredevils,Rising Pune Supergiant,Delhi Daredevils,0.0,249.0
+,615,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,0.0,241.0
+,624,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,0.0,244.0
+,625,Chennai Super Kings,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,0.0,252.0
+,627,Chennai Super Kings,Chennai Super Kings,Kochi Tuskers Kerala,Chennai Super Kings,0.0,249.0
+,628,Chennai Super Kings,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,0.0,241.0
+,632,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,,0.0,261.0
+,633,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,Mumbai Indians,0.0,243.0
+,634,Delhi Daredevils,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,0.0,233.0
+,635,Chennai Super Kings,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,0.0,247.0
+,640,Deccan Chargers,Deccan Chargers,Chennai Super Kings,Chennai Super Kings,0.0,250.0
+,645,Rajasthan Royals,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,0.0,244.0
+,648,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,0.0,220.0
+,649,Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,0.0,244.0
+,650,Deccan Chargers,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,0.0,249.0
+,656,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,0.0,240.0
+,657,Chennai Super Kings,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,1.0,220.0
+,658,Mumbai Indians,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,0.0,247.0
+,659,Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,0.0,212.0
+,660,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,0.0,238.0
+,662,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,0.0,225.0
+,666,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,0.0,199.0
+,667,Pune Warriors,Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,0.0,247.0
+,668,Chennai Super Kings,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,0.0,246.0
+,670,Mumbai Indians,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,0.0,239.0
+,671,Deccan Chargers,Deccan Chargers,Mumbai Indians,Deccan Chargers,0.0,252.0
+,673,Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,0.0,241.0
+,674,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,0.0,253.0
+,677,Deccan Chargers,Kings XI Punjab,Deccan Chargers,Kings XI Punjab,0.0,245.0
+,682,Delhi Capitals,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,0.0,246.0
+,683,Mumbai Indians,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,0.0,248.0
+,686,Kolkata Knight Riders,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,0.0,251.0
+,692,Kings XI Punjab,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,0.0,232.0
+,693,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,0.0,255.0
+,696,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,0.0,203.0
+,698,Royal Challengers Bangalore,Gujarat Lions,Royal Challengers Bangalore,Gujarat Lions,0.0,246.0
+,702,Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,0.0,247.0
+,703,Mumbai Indians,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,0.0,252.0
+,704,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,0.0,250.0
+,710,Rajasthan Royals,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,0.0,217.0
+,711,Deccan Chargers,Mumbai Indians,Deccan Chargers,Deccan Chargers,0.0,249.0
+,716,Royal Challengers Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,0.0,242.0
+,717,Delhi Daredevils,Delhi Daredevils,Mumbai Indians,Mumbai Indians,0.0,218.0
+,718,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,0.0,247.0
+,719,Mumbai Indians,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,0.0,247.0
+,722,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,0.0,241.0
+,725,Delhi Capitals,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,0.0,242.0
+,729,Mumbai Indians,Mumbai Indians,Rising Pune Supergiants,Rising Pune Supergiants,0.0,218.0
+,732,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,0.0,238.0
+,733,Chennai Super Kings,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,0.0,257.0
+,734,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Mumbai Indians,0.0,248.0
+,737,Rajasthan Royals,Pune Warriors,Rajasthan Royals,Pune Warriors,0.0,239.0
+,740,Kolkata Knight Riders,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,0.0,239.0
+,741,Mumbai Indians,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,0.0,238.0
+,743,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,0.0,221.0
+,748,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,0.0,235.0
+,750,Rajasthan Royals,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,0.0,249.0
+field,3,Royal Challengers Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,1.0,159.0
+,4,Gujarat Lions,Kings XI Punjab,Gujarat Lions,Gujarat Lions,0.0,244.0
+,5,Royal Challengers Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,0.0,248.0
+,6,Rising Pune Supergiants,Sunrisers Hyderabad,Rising Pune Supergiants,Rising Pune Supergiants,1.0,196.0
+,10,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,0.0,246.0
+,14,Kolkata Knight Riders,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,0.0,185.0
+,17,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,0.0,229.0
+,19,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,0.0,231.0
+,23,Gujarat Lions,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,0.0,212.0
+,25,Delhi Daredevils,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,0.0,247.0
+,26,Gujarat Lions,Gujarat Lions,Kings XI Punjab,Kings XI Punjab,0.0,245.0
+,27,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,0.0,246.0
+,28,Kochi Tuskers Kerala,Delhi Daredevils,Kochi Tuskers Kerala,Kochi Tuskers Kerala,0.0,226.0
+,29,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,0.0,248.0
+,30,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,0.0,244.0
+,31,Rajasthan Royals,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,0.0,245.0
+,36,Kings XI Punjab,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,0.0,255.0
+,39,Kolkata Knight Riders,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,0.0,224.0
+,40,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,0.0,245.0
+,41,Chennai Super Kings,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,0.0,231.0
+,42,Kings XI Punjab,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,0.0,236.0
+,43,Kings XI Punjab,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,0.0,247.0
+,46,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,0.0,252.0
+,47,Deccan Chargers,Pune Warriors,Deccan Chargers,Deccan Chargers,0.0,243.0
+,50,Rajasthan Royals,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,0.0,252.0
+,56,Rajasthan Royals,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,0.0,247.0
+,58,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,0.0,248.0
+,64,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,0.0,245.0
+,65,Kolkata Knight Riders,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,0.0,233.0
+,69,Delhi Daredevils,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,0.0,251.0
+,70,Gujarat Lions,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,0.0,232.0
+,73,Kolkata Knight Riders,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,0.0,234.0
+,74,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,0.0,245.0
+,76,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,0.0,238.0
+,78,Sunrisers Hyderabad,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,0.0,252.0
+,79,Kolkata Knight Riders,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,0.0,239.0
+,80,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,0.0,245.0
+,81,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,0.0,247.0
+,82,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,0.0,183.0
+,84,Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,0.0,235.0
+,85,Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,0.0,214.0
+,86,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,0.0,242.0
+,88,Delhi Daredevils,Gujarat Lions,Delhi Daredevils,Delhi Daredevils,0.0,243.0
+,89,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,0.0,242.0
+,90,Mumbai Indians,Kings XI Punjab,Mumbai Indians,Mumbai Indians,0.0,241.0
+,91,Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,0.0,233.0
+,92,Mumbai Indians,Mumbai Indians,Pune Warriors,Pune Warriors,0.0,247.0
+,94,Chennai Super Kings,Chennai Super Kings,Kings XI Punjab,,0.0,259.0
+,95,Mumbai Indians,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,0.0,255.0
+,96,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,0.0,249.0
+,98,Chennai Super Kings,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,0.0,233.0
+,99,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,0.0,244.0
+,100,Rajasthan Royals,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,0.0,246.0
+,101,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,0.0,249.0
+,104,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,0.0,242.0
+,105,Sunrisers Hyderabad,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,0.0,235.0
+,106,Gujarat Lions,Gujarat Lions,Kings XI Punjab,Kings XI Punjab,0.0,245.0
+,108,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,0.0,247.0
+,109,Kings XI Punjab,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,0.0,251.0
+,111,Mumbai Indians,Mumbai Indians,Chennai Super Kings,Mumbai Indians,0.0,221.0
+,112,Mumbai Indians,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,0.0,239.0
+,113,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,0.0,227.0
+,116,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,0.0,246.0
+,117,Rajasthan Royals,Rajasthan Royals,Pune Warriors,Rajasthan Royals,0.0,241.0
+,119,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,0.0,227.0
+,120,Mumbai Indians,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,0.0,230.0
+,121,Royal Challengers Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,0.0,244.0
+,122,Royal Challengers Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,0.0,248.0
+,123,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,0.0,248.0
+,124,Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,0.0,234.0
+,125,Delhi Capitals,Rajasthan Royals,Delhi Capitals,Delhi Capitals,0.0,241.0
+,126,Kolkata Knight Riders,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,0.0,237.0
+,127,Chennai Super Kings,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,0.0,218.0
+,128,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,0.0,244.0
+,130,Delhi Daredevils,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,0.0,243.0
+,131,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Mumbai Indians,0.0,253.0
+,132,Delhi Daredevils,Delhi Daredevils,Pune Warriors,Pune Warriors,0.0,252.0
+,133,Kolkata Knight Riders,Kolkata Knight Riders,Rajasthan Royals,,0.0,267.0
+,134,Kolkata Knight Riders,Kolkata Knight Riders,Kochi Tuskers Kerala,Kochi Tuskers Kerala,0.0,245.0
+,135,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,0.0,230.0
+,136,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,0.0,215.0
+,137,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,1.0,187.0
+,139,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,0.0,255.0
+,140,Rajasthan Royals,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,0.0,248.0
+,141,Mumbai Indians,Mumbai Indians,Delhi Capitals,Delhi Capitals,0.0,246.0
+,142,Delhi Daredevils,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,0.0,248.0
+,144,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Rajasthan Royals,Kochi Tuskers Kerala,0.0,161.0
+,147,Kolkata Knight Riders,Rising Pune Supergiants,Kolkata Knight Riders,Kolkata Knight Riders,0.0,244.0
+,150,Mumbai Indians,Mumbai Indians,Kings XI Punjab,Mumbai Indians,0.0,252.0
+,151,Sunrisers Hyderabad,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,0.0,242.0
+,152,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,0.0,249.0
+,153,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,0.0,244.0
+,154,Deccan Chargers,Delhi Daredevils,Deccan Chargers,Deccan Chargers,0.0,237.0
+,155,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,0.0,145.0
+,158,Royal Challengers Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,0.0,248.0
+,159,Rising Pune Supergiants,Rising Pune Supergiants,Delhi Daredevils,Rising Pune Supergiants,1.0,193.0
+,160,Chennai Super Kings,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,0.0,247.0
+,163,Chennai Super Kings,Chennai Super Kings,Mumbai Indians,Mumbai Indians,0.0,235.0
+,164,Deccan Chargers,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,0.0,249.0
+,165,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,0.0,220.0
+,166,Gujarat Lions,Gujarat Lions,Kolkata Knight Riders,Gujarat Lions,0.0,214.0
+,167,Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,1.0,151.0
+,169,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,0.0,242.0
+,172,Delhi Daredevils,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,0.0,223.0
+,173,Kolkata Knight Riders,Rising Pune Supergiant,Kolkata Knight Riders,Kolkata Knight Riders,0.0,239.0
+,174,Kolkata Knight Riders,Kochi Tuskers Kerala,Kolkata Knight Riders,Kochi Tuskers Kerala,0.0,247.0
+,175,Kolkata Knight Riders,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,0.0,200.0
+,177,Pune Warriors,Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,0.0,251.0
+,178,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,0.0,250.0
+,179,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Chennai Super Kings,Kochi Tuskers Kerala,1.0,196.0
+,180,Kings XI Punjab,Deccan Chargers,Kings XI Punjab,Deccan Chargers,0.0,243.0
+,181,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,0.0,257.0
+,184,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,0.0,248.0
+,188,Mumbai Indians,Mumbai Indians,Rajasthan Royals,Mumbai Indians,0.0,215.0
+,189,Mumbai Indians,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,0.0,242.0
+,190,Kings XI Punjab,Kochi Tuskers Kerala,Kings XI Punjab,Kings XI Punjab,0.0,247.0
+,191,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,0.0,216.0
+,192,Deccan Chargers,Kings XI Punjab,Deccan Chargers,Deccan Chargers,0.0,247.0
+,193,Gujarat Lions,Rising Pune Supergiants,Gujarat Lions,Gujarat Lions,0.0,252.0
+,194,Kings XI Punjab,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,0.0,252.0
+,195,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,0.0,237.0
+,200,Chennai Super Kings,Chennai Super Kings,Mumbai Indians,Mumbai Indians,0.0,244.0
+,201,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,0.0,250.0
+,203,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,0.0,243.0
+,205,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,0.0,245.0
+,207,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,0.0,246.0
+,208,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,0.0,238.0
+,211,Rajasthan Royals,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,0.0,246.0
+,212,Sunrisers Hyderabad,Sunrisers Hyderabad,Gujarat Lions,Sunrisers Hyderabad,0.0,216.0
+,213,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,0.0,247.0
+,214,Delhi Capitals,Delhi Capitals,Kolkata Knight Riders,,0.0,259.0
+,215,Delhi Capitals,Delhi Capitals,Kings XI Punjab,Delhi Capitals,0.0,248.0
+,216,Royal Challengers Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,0.0,250.0
+,217,Deccan Chargers,Deccan Chargers,Mumbai Indians,Mumbai Indians,0.0,239.0
+,219,Pune Warriors,Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,0.0,246.0
+,220,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,0.0,251.0
+,222,Pune Warriors,Sunrisers Hyderabad,Pune Warriors,Sunrisers Hyderabad,0.0,237.0
+,224,Mumbai Indians,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,0.0,226.0
+,226,Royal Challengers Bangalore,Royal Challengers Bangalore,Rising Pune Supergiant,Rising Pune Supergiant,0.0,250.0
+,227,Kolkata Knight Riders,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,0.0,241.0
+,228,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,0.0,252.0
+,229,Rising Pune Supergiants,Delhi Daredevils,Rising Pune Supergiants,Rising Pune Supergiants,0.0,248.0
+,231,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,0.0,251.0
+,233,Deccan Chargers,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,0.0,246.0
+,235,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,Mumbai Indians,0.0,243.0
+,236,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,0.0,245.0
+,237,Deccan Chargers,Deccan Chargers,Mumbai Indians,Mumbai Indians,0.0,245.0
+,240,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,0.0,248.0
+,241,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,1.0,184.0
+,242,Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,0.0,246.0
+,243,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,0.0,249.0
+,244,Kolkata Knight Riders,Kolkata Knight Riders,Pune Warriors,Pune Warriors,0.0,244.0
+,245,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,0.0,249.0
+,247,Rising Pune Supergiant,Kolkata Knight Riders,Rising Pune Supergiant,Rising Pune Supergiant,0.0,238.0
+,249,Delhi Daredevils,Delhi Daredevils,Gujarat Lions,Gujarat Lions,0.0,242.0
+,250,Rajasthan Royals,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,0.0,246.0
+,252,Deccan Chargers,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,0.0,254.0
+,253,Royal Challengers Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,0.0,225.0
+,254,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,,0.0,51.0
+,255,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,0.0,251.0
+,258,Kings XI Punjab,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,0.0,235.0
+,259,Deccan Chargers,Mumbai Indians,Deccan Chargers,Deccan Chargers,0.0,202.0
+,260,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,0.0,242.0
+,263,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,0.0,247.0
+,265,Delhi Daredevils,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,0.0,229.0
+,266,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,0.0,246.0
+,267,Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,0.0,245.0
+,270,Rajasthan Royals,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,0.0,246.0
+,271,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,0.0,253.0
+,272,Mumbai Indians,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,0.0,241.0
+,273,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,0.0,237.0
+,275,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,0.0,249.0
+,276,Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,0.0,245.0
+,278,Mumbai Indians,Mumbai Indians,Chennai Super Kings,Mumbai Indians,0.0,248.0
+,280,Royal Challengers Bangalore,Royal Challengers Bangalore,Rising Pune Supergiants,Royal Challengers Bangalore,0.0,244.0
+,282,Royal Challengers Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,0.0,251.0
+,285,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Deccan Chargers,Deccan Chargers,0.0,228.0
+,286,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,0.0,242.0
+,287,Kings XI Punjab,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,0.0,245.0
+,288,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,0.0,236.0
+,289,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,0.0,252.0
+,291,Gujarat Lions,Royal Challengers Bangalore,Gujarat Lions,Royal Challengers Bangalore,0.0,242.0
+,292,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,Mumbai Indians,0.0,238.0
+,296,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,0.0,247.0
+,297,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,0.0,217.0
+,298,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,0.0,249.0
+,299,Mumbai Indians,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,0.0,249.0
+,300,Delhi Capitals,Kings XI Punjab,Delhi Capitals,Kings XI Punjab,0.0,245.0
+,301,Sunrisers Hyderabad,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,0.0,217.0
+,302,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,1.0,146.0
+,303,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,0.0,246.0
+,304,Royal Challengers Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,0.0,249.0
+,305,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,0.0,246.0
+,306,Gujarat Lions,Gujarat Lions,Mumbai Indians,Gujarat Lions,0.0,236.0
+,307,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,0.0,246.0
+,308,Kings XI Punjab,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,0.0,157.0
+,311,Gujarat Lions,Kings XI Punjab,Gujarat Lions,Gujarat Lions,0.0,233.0
+,313,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,,0.0,128.0
+,316,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,0.0,232.0
+,317,Delhi Daredevils,Pune Warriors,Delhi Daredevils,Delhi Daredevils,0.0,247.0
+,319,Delhi Daredevils,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,0.0,207.0
+,320,Delhi Capitals,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,0.0,223.0
+,323,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,0.0,237.0
+,325,Chennai Super Kings,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,0.0,257.0
+,328,Rajasthan Royals,Rajasthan Royals,Mumbai Indians,Mumbai Indians,0.0,251.0
+,329,Delhi Daredevils,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,0.0,240.0
+,330,Mumbai Indians,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,0.0,249.0
+,331,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,0.0,229.0
+,332,Rajasthan Royals,Rajasthan Royals,Kochi Tuskers Kerala,Rajasthan Royals,0.0,209.0
+,333,Mumbai Indians,Mumbai Indians,Rising Pune Supergiant,Rising Pune Supergiant,0.0,252.0
+,336,Royal Challengers Bangalore,Royal Challengers Bangalore,Delhi Daredevils,,0.0,258.0
+,337,Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,0.0,236.0
+,338,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,0.0,246.0
+,339,Mumbai Indians,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,0.0,251.0
+,340,Mumbai Indians,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,0.0,251.0
+,341,Sunrisers Hyderabad,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,0.0,241.0
+,342,Gujarat Lions,Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,0.0,249.0
+,343,Mumbai Indians,Mumbai Indians,Rajasthan Royals,Mumbai Indians,0.0,202.0
+,347,Kings XI Punjab,Kings XI Punjab,Deccan Chargers,Deccan Chargers,0.0,239.0
+,348,Mumbai Indians,Mumbai Indians,Gujarat Lions,Mumbai Indians,0.0,251.0
+,349,Kings XI Punjab,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,0.0,243.0
+,353,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,1.0,196.0
+,354,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,0.0,239.0
+,355,Kings XI Punjab,Kings XI Punjab,Pune Warriors,Kings XI Punjab,0.0,225.0
+,358,Mumbai Indians,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,0.0,254.0
+,359,Kings XI Punjab,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,0.0,243.0
+,360,Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,0.0,218.0
+,362,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,0.0,231.0
+,363,Pune Warriors,Pune Warriors,Royal Challengers Bangalore,Royal Challengers Bangalore,0.0,246.0
+,364,Delhi Daredevils,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,0.0,247.0
+,368,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,0.0,242.0
+,369,Deccan Chargers,Chennai Super Kings,Deccan Chargers,Deccan Chargers,0.0,248.0
+,370,Kings XI Punjab,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,0.0,239.0
+,371,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,0.0,246.0
+,372,Royal Challengers Bangalore,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,0.0,230.0
+,374,Kolkata Knight Riders,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,0.0,243.0
+,375,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,0.0,242.0
+,376,Royal Challengers Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,0.0,246.0
+,377,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,0.0,239.0
+,378,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,0.0,236.0
+,379,Deccan Chargers,Deccan Chargers,Mumbai Indians,Mumbai Indians,0.0,252.0
+,383,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,0.0,250.0
+,384,Rajasthan Royals,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,0.0,235.0
+,385,Kings XI Punjab,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,0.0,246.0
+,386,Pune Warriors,Chennai Super Kings,Pune Warriors,Chennai Super Kings,0.0,246.0
+,387,Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,0.0,250.0
+,388,Mumbai Indians,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,0.0,241.0
+,389,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,0.0,247.0
+,390,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,0.0,236.0
+,392,Gujarat Lions,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,0.0,232.0
+,394,Sunrisers Hyderabad,Sunrisers Hyderabad,Gujarat Lions,Sunrisers Hyderabad,0.0,242.0
+,395,Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,0.0,234.0
+,396,Mumbai Indians,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,0.0,248.0
+,399,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,0.0,248.0
+,401,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,0.0,247.0
+,402,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,0.0,245.0
+,403,Deccan Chargers,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,0.0,248.0
+,405,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,0.0,246.0
+,406,Delhi Daredevils,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,0.0,250.0
+,407,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,0.0,246.0
+,408,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,0.0,235.0
+,409,Mumbai Indians,Mumbai Indians,Kings XI Punjab,Mumbai Indians,0.0,251.0
+,410,Kolkata Knight Riders,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,0.0,253.0
+,411,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,0.0,251.0
+,412,Kings XI Punjab,Kings XI Punjab,Rising Pune Supergiant,Kings XI Punjab,0.0,247.0
+,413,Mumbai Indians,Kings XI Punjab,Mumbai Indians,Mumbai Indians,0.0,243.0
+,414,Rising Pune Supergiant,Rising Pune Supergiant,Gujarat Lions,Rising Pune Supergiant,0.0,244.0
+,415,Kings XI Punjab,Kings XI Punjab,Deccan Chargers,Kings XI Punjab,0.0,243.0
+,417,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,0.0,243.0
+,421,Rajasthan Royals,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,0.0,249.0
+,422,Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,0.0,241.0
+,424,Delhi Daredevils,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,1.0,108.0
+,425,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,0.0,246.0
+,428,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,0.0,224.0
+,431,Pune Warriors,Pune Warriors,Sunrisers Hyderabad,Sunrisers Hyderabad,0.0,239.0
+,432,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,1.0,157.0
+,433,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,0.0,213.0
+,434,Royal Challengers Bangalore,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,0.0,252.0
+,437,Deccan Chargers,Chennai Super Kings,Deccan Chargers,Deccan Chargers,0.0,236.0
+,440,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,0.0,226.0
+,441,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,0.0,249.0
+,442,Rajasthan Royals,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,0.0,223.0
+,443,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,0.0,242.0
+,445,Delhi Daredevils,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,0.0,204.0
+,446,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,0.0,249.0
+,447,Chennai Super Kings,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,0.0,246.0
+,449,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,0.0,240.0
+,450,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,0.0,251.0
+,453,Royal Challengers Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,0.0,262.0
+,454,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,0.0,249.0
+,456,Kings XI Punjab,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,0.0,234.0
+,457,Kochi Tuskers Kerala,Mumbai Indians,Kochi Tuskers Kerala,Kochi Tuskers Kerala,0.0,247.0
+,464,Kings XI Punjab,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,0.0,238.0
+,465,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,0.0,249.0
+,466,Mumbai Indians,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,0.0,233.0
+,467,Royal Challengers Bangalore,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,0.0,240.0
+,468,Mumbai Indians,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,0.0,204.0
+,470,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Mumbai Indians,0.0,248.0
+,472,Delhi Daredevils,Delhi Daredevils,Gujarat Lions,Delhi Daredevils,0.0,234.0
+,476,Chennai Super Kings,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,0.0,238.0
+,477,Chennai Super Kings,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,0.0,241.0
+,479,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,0.0,255.0
+,480,Pune Warriors,Delhi Daredevils,Pune Warriors,Delhi Daredevils,0.0,251.0
+,481,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,0.0,234.0
+,486,Royal Challengers Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,0.0,232.0
+,488,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,0.0,250.0
+,490,Mumbai Indians,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,0.0,228.0
+,493,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,Mumbai Indians,0.0,250.0
+,494,Royal Challengers Bangalore,Rising Pune Supergiant,Royal Challengers Bangalore,Rising Pune Supergiant,0.0,245.0
+,498,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,0.0,233.0
+,499,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Mumbai Indians,0.0,241.0
+,500,Sunrisers Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,0.0,225.0
+,501,Rising Pune Supergiant,Rising Pune Supergiant,Delhi Daredevils,Delhi Daredevils,0.0,226.0
+,502,Rajasthan Royals,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,0.0,227.0
+,506,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,Mumbai Indians,0.0,237.0
+,507,Royal Challengers Bangalore,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,0.0,240.0
+,508,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,0.0,238.0
+,510,Kolkata Knight Riders,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,0.0,242.0
+,512,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,0.0,244.0
+,513,Royal Challengers Bangalore,Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,0.0,240.0
+,514,Mumbai Indians,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,0.0,207.0
+,515,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,0.0,250.0
+,517,Kolkata Knight Riders,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,0.0,245.0
+,518,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,0.0,218.0
+,519,Royal Challengers Bangalore,Royal Challengers Bangalore,Delhi Daredevils,,0.0,130.0
+,520,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,0.0,236.0
+,521,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,0.0,247.0
+,524,Kolkata Knight Riders,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,0.0,243.0
+,527,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,0.0,244.0
+,531,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,0.0,256.0
+,533,Royal Challengers Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,0.0,232.0
+,534,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,0.0,233.0
+,535,Mumbai Indians,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,0.0,237.0
+,537,Rajasthan Royals,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,0.0,239.0
+,538,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,0.0,244.0
+,541,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,,0.0,258.0
+,542,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Mumbai Indians,0.0,247.0
+,543,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,0.0,247.0
+,544,Rajasthan Royals,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,0.0,234.0
+,545,Royal Challengers Bangalore,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,0.0,237.0
+,547,Chennai Super Kings,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,0.0,247.0
+,548,Deccan Chargers,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,0.0,250.0
+,549,Delhi Daredevils,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,0.0,249.0
+,551,Royal Challengers Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,0.0,242.0
+,552,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,0.0,250.0
+,556,Mumbai Indians,Kings XI Punjab,Mumbai Indians,Mumbai Indians,0.0,225.0
+,557,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,0.0,251.0
+,558,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,0.0,248.0
+,560,Rising Pune Supergiants,Rising Pune Supergiants,Royal Challengers Bangalore,Royal Challengers Bangalore,0.0,254.0
+,561,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Mumbai Indians,0.0,252.0
+,562,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,0.0,253.0
+,563,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,0.0,181.0
+,565,Mumbai Indians,Mumbai Indians,Chennai Super Kings,Mumbai Indians,0.0,250.0
+,566,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,0.0,251.0
+,567,Rising Pune Supergiant,Rising Pune Supergiant,Kings XI Punjab,Rising Pune Supergiant,0.0,171.0
+,568,Kings XI Punjab,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,0.0,200.0
+,569,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Mumbai Indians,0.0,230.0
+,570,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,0.0,239.0
+,578,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,0.0,244.0
+,579,Royal Challengers Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,0.0,237.0
+,580,Kolkata Knight Riders,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,0.0,244.0
+,581,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,0.0,250.0
+,583,Mumbai Indians,Rising Pune Supergiants,Mumbai Indians,Mumbai Indians,0.0,240.0
+,584,Kings XI Punjab,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,0.0,243.0
+,585,Pune Warriors,Pune Warriors,Mumbai Indians,Mumbai Indians,0.0,248.0
+,590,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,0.0,248.0
+,591,Delhi Daredevils,Delhi Daredevils,Mumbai Indians,Mumbai Indians,0.0,230.0
+,595,Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,0.0,244.0
+,598,Rajasthan Royals,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,0.0,241.0
+,603,Kings XI Punjab,Kings XI Punjab,Mumbai Indians,Mumbai Indians,0.0,247.0
+,605,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,0.0,251.0
+,606,Delhi Daredevils,Delhi Daredevils,Mumbai Indians,Mumbai Indians,0.0,211.0
+,607,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,0.0,249.0
+,609,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,0.0,211.0
+,610,Chennai Super Kings,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,0.0,253.0
+,612,Royal Challengers Bangalore,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,0.0,234.0
+,614,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,0.0,249.0
+,616,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,0.0,246.0
+,617,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,0.0,231.0
+,618,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,0.0,248.0
+,619,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,0.0,239.0
+,620,Rising Pune Supergiant,Rising Pune Supergiant,Sunrisers Hyderabad,Rising Pune Supergiant,0.0,245.0
+,621,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,0.0,239.0
+,622,Delhi Daredevils,Gujarat Lions,Delhi Daredevils,Delhi Daredevils,0.0,229.0
+,623,Royal Challengers Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,0.0,238.0
+,626,Gujarat Lions,Gujarat Lions,Rising Pune Supergiant,Gujarat Lions,0.0,236.0
+,629,Kings XI Punjab,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,0.0,246.0
+,630,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,0.0,245.0
+,631,Sunrisers Hyderabad,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,0.0,246.0
+,636,Chennai Super Kings,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,0.0,244.0
+,637,Rising Pune Supergiant,Rising Pune Supergiant,Mumbai Indians,Rising Pune Supergiant,0.0,247.0
+,638,Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,0.0,232.0
+,639,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,0.0,249.0
+,641,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,0.0,256.0
+,642,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,0.0,243.0
+,643,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,0.0,212.0
+,644,Delhi Capitals,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,0.0,252.0
+,646,Pune Warriors,Chennai Super Kings,Pune Warriors,Chennai Super Kings,0.0,245.0
+,647,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,0.0,244.0
+,651,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,0.0,253.0
+,652,Mumbai Indians,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,0.0,136.0
+,653,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,0.0,248.0
+,654,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,0.0,246.0
+,655,Kings XI Punjab,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,0.0,222.0
+,661,Deccan Chargers,Delhi Daredevils,Deccan Chargers,Delhi Daredevils,0.0,247.0
+,663,Mumbai Indians,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,0.0,245.0
+,664,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,0.0,100.0
+,665,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,0.0,245.0
+,669,Chennai Super Kings,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,0.0,239.0
+,672,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,0.0,248.0
+,675,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,0.0,126.0
+,676,Rajasthan Royals,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,0.0,253.0
+,678,Rajasthan Royals,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,0.0,171.0
+,679,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,0.0,249.0
+,680,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,0.0,243.0
+,681,Kolkata Knight Riders,Gujarat Lions,Kolkata Knight Riders,Kolkata Knight Riders,0.0,218.0
+,684,Mumbai Indians,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,0.0,255.0
+,685,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,0.0,242.0
+,687,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,Mumbai Indians,0.0,242.0
+,688,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,Mumbai Indians,0.0,251.0
+,689,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,1.0,186.0
+,690,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,0.0,240.0
+,691,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,0.0,243.0
+,694,Chennai Super Kings,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,0.0,245.0
+,695,Royal Challengers Bangalore,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,0.0,247.0
+,697,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,Mumbai Indians,0.0,252.0
+,699,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,0.0,239.0
+,700,Kings XI Punjab,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,0.0,240.0
+,701,Kings XI Punjab,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,0.0,242.0
+,705,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,0.0,246.0
+,706,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,1.0,197.0
+,707,Sunrisers Hyderabad,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,0.0,228.0
+,708,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Mumbai Indians,0.0,257.0
+,709,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,0.0,250.0
+,712,Sunrisers Hyderabad,Sunrisers Hyderabad,Rising Pune Supergiant,Rising Pune Supergiant,0.0,246.0
+,713,Kings XI Punjab,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,0.0,238.0
+,714,Kings XI Punjab,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,0.0,245.0
+,715,Delhi Daredevils,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,0.0,234.0
+,720,Royal Challengers Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,0.0,127.0
+,721,Chennai Super Kings,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,0.0,214.0
+,723,Gujarat Lions,Mumbai Indians,Gujarat Lions,Gujarat Lions,0.0,251.0
+,724,Royal Challengers Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,0.0,247.0
+,726,Royal Challengers Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,0.0,195.0
+,727,Delhi Daredevils,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,0.0,212.0
+,728,Kings XI Punjab,Kings XI Punjab,Pune Warriors,Kings XI Punjab,0.0,244.0
+,730,Mumbai Indians,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,0.0,250.0
+,731,Kolkata Knight Riders,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,0.0,221.0
+,735,Royal Challengers Bangalore,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,0.0,255.0
+,736,Deccan Chargers,Deccan Chargers,Chennai Super Kings,Chennai Super Kings,0.0,233.0
+,738,Delhi Daredevils,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,0.0,247.0
+,739,Kings XI Punjab,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,0.0,238.0
+,742,Mumbai Indians,Mumbai Indians,Deccan Chargers,Mumbai Indians,0.0,232.0
+,744,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Mumbai Indians,0.0,246.0
+,745,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,0.0,239.0
+,746,Deccan Chargers,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,0.0,249.0
+,747,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,0.0,244.0
+,749,Mumbai Indians,Mumbai Indians,Rising Pune Supergiant,Rising Pune Supergiant,0.0,245.0
+,751,Delhi Daredevils,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,0.0,241.0
+,752,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,0.0,237.0
+,753,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,0.0,244.0
+,754,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,0.0,142.0
+,755,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,0.0,248.0
+,756,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,0.0,251.0
